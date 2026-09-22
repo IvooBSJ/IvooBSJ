@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- Banner con efecto de máquina de escribir -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Ivo+%F0%9F%91%8B;Ingenier%C3%ADa+en+Sistemas+de+Informaci%C3%B3n;Cloud+%7C+Fintech+%7C+Automatizaci%C3%B3n" alt="Typing SVG" />
+  <!-- Banner con efecto typing corregido (ancho ampliado para evitar recortes) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Ivo+%F0%9F%91%8B;Ingenier%C3%ADa+en+Sistemas+de+Informaci%C3%B3n;Fullstack+%7C+Cloud+%7C+Automatizaci%C3%B3n" alt="Typing SVG" />
 
   <p align="center">
-    Estudiante de <b>Ingeniería en Sistemas de Información</b> enfocado en arquitectura de software, infraestructura cloud, ciberseguridad y desarrollo de soluciones eficientes.
+    Estudiante de <b>Ingeniería en Sistemas de Información</b> enfocado en desarrollo fullstack moderno, arquitectura de software, entornos cloud y automatización.
   </p>
 
   <!-- Redes y Contacto -->
@@ -19,10 +19,10 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Cursando **Ingeniería en Sistemas de Información** 4to año (UTN FRRe).
-- 💡 Interesado en arquitectura de sistemas, finanzas cuantitativas / fintech, cloud computing e inteligencia artificial.
-- ⚙️ Me apasiona optimizar procesos, construir pipelines automatizados y entender el hardware a fondo.
-- 💬 Hablemos sobre: Backend/Frontend, despliegue de infraestructura, APIs y lógica de sistemas distribuidos.
+- 🎓 Cursando **Ingeniería en Sistemas de Información** (UTN FRRe).
+- 💡 Interesado en desarrollo web fullstack, microservicios, fintech y cloud computing.
+- ⚙️ Me apasiona construir aplicaciones escalables, optimizar consultas y automatizar despliegues.
+- 💬 Hablemos sobre: React, ecosistema Node/TypeScript, bases de datos y arquitectura de sistemas.
 
 ---
 
@@ -30,15 +30,22 @@
 
 <div align="center">
 
-  <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <!-- Frontend & Lenguajes -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
   <br />
 
-  <!-- Cloud, Infra & Datos -->
+  <!-- Backend & Bases de Datos -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <br />
+
+  <!-- DevOps & Herramientas -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -48,7 +55,7 @@
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 Estadísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
